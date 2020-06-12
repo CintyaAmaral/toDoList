@@ -1,15 +1,22 @@
+## To Do List
 
-A to do list with React JS
+![todolist1](https://user-images.githubusercontent.com/56697525/84531643-497cd100-acbb-11ea-99e3-cd4bab9f9f52.png)
+![todolist2](https://user-images.githubusercontent.com/56697525/84531649-4b469480-acbb-11ea-8d90-3c6ac9638533.png)
 
-#Tecnologies
+
+
+# Tecnologies
 This project was developed with the following technologies:
 
 - React Js
-- VS Code with EditorConfig
+- Node Js
+- VS Code 
 
-#How to use
-To clone and run this application, you'll need Git, Node.js v10.16 or higher + Yarn v1.13 or
-higher installed on your computer. From your command line:
+# How to use
+To clone and run this application, you'll need Git, Node.js v12.16.1 or higher installed on your computer. From your command line:
 
-#License
+1. Clone this repository using ```https://github.com/CintyaAmaral/toDoList.git```
+2. Move yourself to the appropriate directory ```cd todo-list```
+3. Run ```npm start``` to to start the web application.
+
 
