@@ -16,8 +16,10 @@ This project was developed with the following technologies:
 To clone and run this application, you'll need Git, Node.js v12.16.1 or higher installed on your computer. From your command line:
 
 1. Clone this repository using ```https://github.com/CintyaAmaral/toDoList.git```
-2. Move yourself to the appropriate directory ```cd todo-list```
+2. Move yourself to the appropriate directory ```cd todo-list-master```
 3. Install the dependencies using ```npm install```
 4. Run ```npm start``` to to start the web application.
+
+
 
 
